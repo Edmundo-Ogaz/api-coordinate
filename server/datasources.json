@@ -1,0 +1,13 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "accountDS": {
+    "name": "accountDS",
+    "connector": "mongodb",
+    "host": "localhost",
+    "port": 27017,
+    "database": "GPS"
+  }
+}
