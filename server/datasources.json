@@ -6,7 +6,7 @@
   "accountDS": {
     "name": "accountDS",
     "connector": "mongodb",
-    "host": "localhost",
+    "host": "104.197.87.235",
     "port": 27017,
     "database": "GPS"
   }
